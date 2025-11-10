@@ -6,7 +6,7 @@
 ## Contents
 - Terraform: 10+ files with public buckets, insecure IAM, open SGs
 - Kubernetes: 5+ YAMLs with pods running as root, hostPath mounts
-- Docker: 3 Dockerfiles with root login, world-writable dirs
+- Docker: 3 Dockerfiles with root login, world-writable sd
 - .env: hardcoded secrets
 
 ## Usage
